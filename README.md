@@ -1,10 +1,4 @@
-# 员工管理系统（简单版）
-
-## 获取方式
-
-扫描下方，回复关键词  ：**员工9** ，以获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 员工管理系统（简单版）9
 
 ## 1、项目介绍
 
@@ -31,23 +25,20 @@
 
 ### 4.1 登录和注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207152344452.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207152344452.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207152344918.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202207152344918.jpg)
 
 ### 4.2 其他模块
 
-![部门员工信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207152344535.jpg)
+![部门员工信息](https://www.codeshop.fun/Typora-Images/202207152344535.jpg)
 
-![查找员工](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207152344233.jpg)
+![查找员工](https://www.codeshop.fun/Typora-Images/202207152344233.jpg)
 
-![增加员工](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207152344248.jpg)
+![增加员工](https://www.codeshop.fun/Typora-Images/202207152344248.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**员工9** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**员工**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
